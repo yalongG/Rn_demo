@@ -135,3 +135,7 @@ public class MyApplication extends Application implements ReactApplication {
 ```bash
 react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 ```
+
+执行成功之后再次运行，应该能够成功。
+
+如果还没成功，将代码拷贝一下，运行看下效果。
